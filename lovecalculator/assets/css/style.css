@@ -1,0 +1,45 @@
+body {
+    font-family: cursive;
+}
+
+.container {
+    margin: 20px;
+    max-width: 1500px;
+    text-align: center;
+}
+
+.love-cal-heading {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.text {
+    margin-bottom: 20px;
+    max-width: 300px;
+    border: none;
+    box-shadow: 1px 1px 3px;
+    line-height: 2;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: inherit;
+}
+
+.love-cal-button {
+    border: none;
+    font-size: 20px;
+    box-shadow: 3px 5px 0px 1px rgb(163, 48, 48);
+    margin-top: 20px;
+    background: red;
+    border-radius: 3px;
+    color: white;
+    padding: 15px 25px;
+    font-family: inherit;
+}
+
+.love-result {
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    color: red;
+    font-family: inherit;
+}

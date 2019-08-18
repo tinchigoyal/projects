@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 20px;
+    max-width: 1500px;
+    text-align: center;
+}
+.flipcoin-heading {
+    color: #ffbe00;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.toss-button {
+    background: #ffbe00;
+    padding: 10px 20px;
+    font-size: 20px;
+    box-shadow: 3px 3px 1px 0px rgb(192, 172, 27);
+    margin-top: 40px;
+    border: none;
+    border-radius: 3px;
+    font-family: fantasy;
+    letter-spacing: 1px;
+}
+
+.coin-image {
+    max-width: 15%
+}
+.coin-text {
+    margin-top:20px;
+    font-size:22px;
+    font-weight: 600;
+    color: red;
+}
